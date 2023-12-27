@@ -1,6 +1,8 @@
 ## Spring Boot - Messaging with RabbitMq
 This project utilizes RabbitMQ message queue to enable efficient and reliable communication between two Spring Boot microservices. RabbitMQ is a widely used message broker in microservices architectures, and this project showcases the integration of RabbitMQ to enable asynchronous and resilient communication between services.
 
+👉 [More information about RabbitMQ](https://ayseozcan.com/2023/12/27/spring-boot-messaging-with-rabbitmq/)
+
 ### Pre-requisites
  - IDE
  - Java 17+
